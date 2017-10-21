@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by timbuchalka on 5/08/2016.
+ * Created by petrenkonv on 14.10.2017.
  */
 
 class GetFlickrJsonData extends AsyncTask<String, Void, List<Photo>> implements GetRawData.OnDownloadComplete {
